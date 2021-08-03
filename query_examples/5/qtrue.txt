@@ -1,0 +1,2 @@
+r1 = pi fabricante (automoveis)
+rho marca<-fabricante (r1)
